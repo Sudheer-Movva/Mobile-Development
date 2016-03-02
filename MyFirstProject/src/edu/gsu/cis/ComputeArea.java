@@ -21,7 +21,8 @@ public class ComputeArea {
 		int b = 20;
 		int c;
 		
-		c = (int) (5/2.0);
+		c = (int) (7/2.0);
+		
 		
 		System.out.println("Value of c "+ c);
 		//System.out.println("Area of a circle " + "with radius "+ radius +" is " + area);
